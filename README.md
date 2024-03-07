@@ -1,24 +1,3 @@
-# cripto
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A small website where you can track the value of various cryptocurrencies. 
+Try adding a few cryptocurrencies to test the filtering and pagination features. The graph is quite basic.
+Website utilizes a free API from https://www.cryptocompare.com/
